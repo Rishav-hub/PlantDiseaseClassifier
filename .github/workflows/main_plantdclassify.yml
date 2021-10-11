@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PlantDClassify'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BC3663A06154A9F835A1F0A4A7A8F1C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00AC4DB1622B4290BF63806B15AB48F0 }}
